@@ -184,3 +184,16 @@ a
     border-radius: 10px;
     height: 45px;
 }
+
+.footer
+{
+    background-color: #1f2937;
+    padding: 40px 0;
+}
+
+.footer-text
+{
+    color: #e5e7eb;
+    font-size: 18px;
+    text-align: center;
+}
