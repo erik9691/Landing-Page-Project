@@ -14,7 +14,7 @@ a
 {
     display: flex;
     align-items: center;
-    padding: 10px 250px;
+    padding: 10px 20vw;
     gap: 20px;
     background-color: #1f2937;
     
@@ -38,7 +38,7 @@ a
 {
     display: flex;
     background-color: #1f2937;
-    padding: 100px 250px;
+    padding: 100px 20vw;
     gap: 100px;
 }
 
@@ -83,7 +83,7 @@ a
     display: flex;
     flex-direction: column;
     align-items: center;
-    padding: 40px 250px;
+    padding: 40px 20vw;
     gap: 30px;
 }
 
@@ -115,5 +115,28 @@ a
     font-size: 18px;
     max-width: 185px;
     text-align: center;
+    margin-top: 10px;
+}
+
+.section-3
+{
+    background-color: #e5e7eb;
+    padding: 100px 25vw;
+}
+
+.s3-quote
+{
+    color: #1f2937;
+    font-size: 36px;
+    font-weight: 300;
+    font-style: italic;
+}
+
+.s3-attribution
+{
+    color: #1f2937;
+    font-size: 26px;
+    font-weight: bold;
+    text-align: right;
     margin-top: 10px;
 }
