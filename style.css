@@ -97,28 +97,23 @@ a
 .s2-content
 {
     display: flex;
-}
-
-.s2-profile
-{
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    flex: 1;
+    gap: 50px;
+    flex-wrap: wrap;
 }
 
 .s2-image
 {
     border: 5px solid #3882f6;
     border-radius: 10%;
-    width: 150px;
-    height: 150px;
+    width: 180px;
+    height: 180px;
 }
 
 .s2-subtext
 {
-    color: #858586;
+    color: #787879;
     font-size: 18px;
-    max-width: 155px;
+    max-width: 185px;
     text-align: center;
+    margin-top: 10px;
 }
