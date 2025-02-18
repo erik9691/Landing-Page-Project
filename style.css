@@ -77,3 +77,48 @@ a
     border-radius: 10px;
     margin-top: 15px;
 }
+
+.section-2
+{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 40px 250px;
+    gap: 30px;
+}
+
+.s2-title
+{
+    color: #1f2937;
+    font-size: 36px;
+    font-weight: 900;
+}
+
+.s2-content
+{
+    display: flex;
+}
+
+.s2-profile
+{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    flex: 1;
+}
+
+.s2-image
+{
+    border: 5px solid #3882f6;
+    border-radius: 10%;
+    width: 150px;
+    height: 150px;
+}
+
+.s2-subtext
+{
+    color: #858586;
+    font-size: 18px;
+    max-width: 155px;
+    text-align: center;
+}
